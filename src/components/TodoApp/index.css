@@ -1,0 +1,28 @@
+.todo-bg-container {
+  height: 100vh;
+  background-color: whitesmoke;
+  border: solid 1px grey;
+  padding: 15px;
+}
+.todo-heading {
+  color: black;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  text-align: center;
+}
+.input-text {
+  height: 5vh;
+  width: 80%;
+  border-radius: 6px;
+  border: solid 1px grey;
+  color: black;
+  font-size: 16px;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-right: 5px;
+}
+.todos-list-container {
+  margin: 0px;
+  list-style-type: none;
+}
